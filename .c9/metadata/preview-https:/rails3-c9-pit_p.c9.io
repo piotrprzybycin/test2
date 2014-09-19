@@ -1,1 +1,1 @@
-{"filter":false,"title":"[P] https://rails3-c9-pit_p.c9.io","undoManager":{"mark":0,"position":-1,"stack":[]},"preview":{"path":"https://rails3-c9-pit_p.c9.io/users/2","previewer":"preview.browser"},"timestamp":1406970220627,"hash":"da39a3ee5e6b4b0d3255bfef95601890afd80709"}
+{"filter":false,"title":"[P] https://rails3-c9-pit_p.c9.io","undoManager":{"mark":0,"position":-1,"stack":[]},"preview":{"path":"https://rails3-c9-pit_p.c9.io","previewer":"preview.browser"},"timestamp":1406970220627,"hash":"da39a3ee5e6b4b0d3255bfef95601890afd80709"}
